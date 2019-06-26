@@ -1,0 +1,10 @@
+python was built on mac osx version 10.14.5 using anaconda:
+Python 3.7.3 (default, Mar 27 2019, 16:54:48) 
+[Clang 4.0.1 (tags/RELEASE_401/final)] :: Anaconda, Inc. on darwin
+
+RDKit was installed with anaconda using the instructions at:
+https://www.rdkit.org/docs/Install.html
+
+MatPlotLib was installed using the following command:
+conda install -c conda-forge matplotlib
+
